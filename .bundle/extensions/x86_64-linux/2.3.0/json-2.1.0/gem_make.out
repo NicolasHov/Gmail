@@ -1,0 +1,13 @@
+current directory: /home/nicolas/Workspace/Semaine3/Gmail/.bundle/gems/json-2.1.0/ext/json
+/usr/bin/ruby2.3 -r ./siteconf20171017-18497-1hhvd1y.rb extconf.rb
+creating Makefile
+
+current directory: /home/nicolas/Workspace/Semaine3/Gmail/.bundle/gems/json-2.1.0/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/nicolas/Workspace/Semaine3/Gmail/.bundle/gems/json-2.1.0/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /home/nicolas/Workspace/Semaine3/Gmail/.bundle/gems/json-2.1.0/ext/json
+make "DESTDIR=" install
